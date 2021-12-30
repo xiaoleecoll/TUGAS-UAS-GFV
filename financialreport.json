@@ -1,0 +1,46 @@
+{
+    "year": "2021",
+    "financialreport": [{
+        "companyname": "Thrifting Barokah",
+        "mounthlysales": "January - June",
+        "companystock": "CHRT",
+        "financial": [{
+                "month": "January",
+                "sale": "30",
+                "expenses": "30",
+                "profits": "60"
+            },
+            {
+                "month": "February",
+                "sale": "39",
+                "expenses": "60",
+                "profits": "70"
+            },
+            {
+                "month": "March",
+                "sale": "34",
+                "expenses": "60",
+                "profits": "70"
+            },
+            {
+                "month": "April",
+                "sale": "60",
+                "expenses": "60",
+                "profits": "70"
+            },
+            {
+                "month": "May",
+                "sale": "50",
+                "expenses": "60",
+                "profits": "70"
+            },
+            {
+                "month": "June",
+                "sale": "80",
+                "expenses": "60",
+                "profits": "70"
+            }
+        ]
+
+    }]
+}
